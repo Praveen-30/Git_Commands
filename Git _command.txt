@@ -2,7 +2,7 @@
                                                 https://github.com/Praveen-30
 git config --global user.name ""
 git config --gloabl user.email ""
-
+git
 git init
 git remote add origin https://github.com/Praveen-30/Month_tracking.git    to link an existing local repo to remote repo
 git remote -v ???
