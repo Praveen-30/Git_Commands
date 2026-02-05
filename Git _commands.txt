@@ -1,19 +1,20 @@
+
                                                 https://github.com/Praveen-30
 git config --global user.name ""
 git config --gloabl user.email ""
 
 git init
 git remote add origin https://github.com/Praveen-30/Month_tracking.git    to link an existing local repo to remote repo
-git remote -v 
+git remote -v ???
 
 git status 
 git add .     to add files to staging area from unstaging   
-git reset HEAD Month_2025.xlsx      to remove file from staging to unstaging 
+git reset HEAD Month_2025.xlsx      to remove file from staging to unstaging area
 
 git commit -m " non empty comments"
 git push
 git checkout -b <branch name>    after this    
-git push -u origin <branch name> this will  reflect branch in repo
+git push -u origin <branch name> this will  reflect branch in repository
 git branch 
 git rm Hello.txt      after this   -> git push  to reflect changes in github
 
@@ -34,8 +35,8 @@ git revert <commit hash>   commit hash appears as a result of git log
 git pull
 git clone url  It will take you to default branch say main/master
 git clone <url> -b develop   It will directly take you to develop branch
-git fetch ??
-git merge origin/<Branch name from where the changes will come > like git merge origin/master this will update the current branch
+git fetch 
+git merge
 git diff master sparky where master and sparky are branches
-clear 
+clear command is used to clear the page
 exit is also a command in git
