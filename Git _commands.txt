@@ -32,7 +32,8 @@ git push origin new-branch-name    This push is compulsory for the changes to be
 
 git revert <commit hash>   commit hash appears as a result of git log
 git pull
-git clone url
+git clone url  It will take you to default branch say main/master
+git clone <url> -b develop   It will directly take you to develop branch
 git fetch 
 git merge
 git diff master sparky where master and sparky are branches
