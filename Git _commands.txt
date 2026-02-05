@@ -13,7 +13,7 @@ git reset HEAD Month_2025.xlsx      to remove file from staging to unstaging
 git commit -m " non empty comments"
 git push
 git checkout -b <branch name>    after this    
-git push -u origin <branch name> this will  reflect branch in repo
+git push -u origin <branch name> this will  reflect branch in repository
 git branch 
 git rm Hello.txt      after this   -> git push  to reflect changes in github
 
