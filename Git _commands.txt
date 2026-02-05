@@ -35,4 +35,4 @@ git fetch
 git merge
 git diff master sparky where master and sparky are branches
 clear 
-exit is also a tag in git
+exit is also a command in git
