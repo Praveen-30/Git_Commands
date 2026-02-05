@@ -1,9 +1,11 @@
                                                 https://github.com/Praveen-30
 git config --global user.name ""
 git config --gloabl user.email ""
+
 git init
 git remote add origin https://github.com/Praveen-30/Month_tracking.git    to link an existing local repo to remote repo
 git remote -v 
+
 git status 
 git add .     to add files to staging area from unstaging   
 git reset HEAD Month_2025.xlsx      to remove file from staging to unstaging 
