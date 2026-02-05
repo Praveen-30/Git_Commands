@@ -8,7 +8,7 @@ git remote -v
 
 git status 
 git add .     to add files to staging area from unstaging   
-git reset HEAD Month_2025.xlsx      to remove file from staging to unstaging 
+git reset HEAD Month_2025.xlsx      to remove file from staging to unstaging area
 
 git commit -m " non empty comments"
 git push
