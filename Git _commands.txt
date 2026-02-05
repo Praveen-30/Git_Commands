@@ -37,5 +37,5 @@ git clone <url> -b develop   It will directly take you to develop branch
 git fetch 
 git merge
 git diff master sparky where master and sparky are branches
-clear 
+clear command is used to clear the page
 exit is also a command in git
